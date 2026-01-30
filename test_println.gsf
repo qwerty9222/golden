@@ -1,0 +1,13 @@
+int main() {
+    print("Sin salto de línea");
+    print(" - mismo párrafo\n");
+    
+    println("Con salto automático");
+    println("Segunda línea");
+    println("Tercera línea");
+    
+    print("La diferencia:");
+    println(" println agrega \\n automáticamente");
+    
+    return 0;
+}
